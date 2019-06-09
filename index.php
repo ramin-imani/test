@@ -1,2 +1,2 @@
 <?php
-    echo "hi git";//push
+    echo "hi git";//push is ok
